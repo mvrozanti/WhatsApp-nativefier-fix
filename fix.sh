@@ -1,10 +1,8 @@
 #!/usr/bin/env bash
 
-# Maintainer: Pawel Pieczyrak
-# Nick: DocBox
-# Github: https://github.com/DocBox12
-# Twitter: https://twitter.com/PawePieczyrak
-# Support me: http://bitcoineng.morfiblog.pl/
+# Maintainer DocBox12
+# Website: https://docbox12.github.io/
+
 
 path=`pwd`
 
